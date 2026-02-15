@@ -6,7 +6,7 @@
 
 <meta charset="utf-8">
 
-<title>survey-form.freecodecamp.rocks</title>
+<title>How's your day</title>
 
 <link rel="stylesheet" href="styles.css">
 
@@ -14,9 +14,9 @@
 
 <body>
 
-<h1 id="title">freeCodeCamp Survey Form</h1>
+<h1 id="title">Survey Form</h1>
 
-<p id="description">Thank you for taking the time to help us improve the platform</p>
+<p id="description">Thank you for taking the time to do the survey</p>
 
 <div>
 
